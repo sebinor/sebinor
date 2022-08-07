@@ -1,4 +1,4 @@
 Hi, I’m @sebinor
-- 👀 I’m interested in Programing / Hacking
-- 🌱 I’m currently learning linux, python and c#
-- 📫 How to reach me sebastian06schoyen@gmail.com
+- 👀 I’m interested in Programing / guitar
+- 🌱 I’m currently learning bash, python and c#
+- 📫 How to reach me sebastian.schoyen@protonmail.com
